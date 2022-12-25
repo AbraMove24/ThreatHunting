@@ -1,7 +1,7 @@
 ---
 title: "DNS"
-author: "Краснослободцев М.В."
-date: "2022-12-04"
+author: "Абрамов Д.А."
+date: "2022-12-06"
 output: html_document
 ---
 
